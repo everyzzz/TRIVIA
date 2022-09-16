@@ -17,7 +17,7 @@ while repe==True:
 		time.sleep(1)
 		print("Aquí verás la lista de jugadores y sus puntuaciones\n...")
 		time.sleep(2)
-		print("\033[33mPor el momento no hay ningún registro\033[39m")
+		print("\033[33mPor el momento no tenemos ningún registro\033[39m")
 		time.sleep(1)		
 	else:
 		print("\033[32m¡Bienvenid@ a mi trivia una vez más!\033[39m")
